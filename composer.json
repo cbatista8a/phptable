@@ -13,7 +13,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Cbatista8a\\PhpTable\\": "src/"
+            "Cbatista8a\\PhpTable\\": "src/",
+            "Cbatista8a\\PhpTable\\Tests\\": "tests/"
         }
     },
     "authors": [
