@@ -1,5 +1,7 @@
 # PhpTable Builder
 
+[![Unit Test](https://github.com/cbatista8a/phptable/actions/workflows/php.yml/badge.svg)](https://github.com/cbatista8a/phptable/actions/workflows/php.yml)
+
 ### Framework agnostic
 
 
