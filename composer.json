@@ -2,6 +2,7 @@
     "name": "cbatista8a/php-table",
     "description": "Simple HTML table builder - Object Oriented Programming(OOP)",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "php" : ">=7.4",
         "composer/composer": "^2.3"
