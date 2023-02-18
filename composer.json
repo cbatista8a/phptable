@@ -1,0 +1,26 @@
+{
+    "name": "cbatista8a/php-table",
+    "description": "Simple HTML table builder - Object Oriented Programming(OOP)",
+    "type": "library",
+    "require": {
+        "php" : ">=7.4",
+        "composer/composer": "^2.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^1.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cbatista8a\\PhpTable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Batista",
+            "email": "cbatista8a@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
